@@ -1,0 +1,31 @@
+# 242廖志航
+## 二级标题
+### 三级标题
+>引用
+>>套娃
+>>>俄罗斯套娃
+`markdown`markdown
+```c
+#include<stdio.h>
+int main{}
+{
+   print{"hello world\n";
+   return 0;
+}
+$\beta \times x \geq 30$ 正文内容
+$$
+\int_{1}^{2}4\alpha^dx\text{注释}
+$$
+*斜体* **粗体**
+----
+##
+
+|一|二|三|四|五|
+|-|-|-|-|-|-|
+|1|2|3|4|5|
+a|b|c|d|e|
+- 第一
+- 第二
+- 第三
+<img src="杰伦。jpg“ width=200 height=200 >
+<img src="杰伦。jpg” style=“zoom:50%">
